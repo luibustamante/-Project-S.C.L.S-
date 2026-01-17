@@ -1,2 +1,0 @@
-def de(s):
-    desl=' '
